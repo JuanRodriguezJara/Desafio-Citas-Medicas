@@ -1,0 +1,20 @@
+{
+  "name": "desafio_citas_medicas",
+  "version": "1.0.0",
+  "description": "aplicando dependencias de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grupo 2",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}
